@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Каталог в виде схемы</name>
+        <description multilanguage="true">Добавляется вид каталога &quot;Схема&quot; для представления товаров как части другого товара.</description>
+        <version>0.1.0</version>
+        <author>Барабошкин Сергей Вячеславович</author>
+    </defaultValues>
+</config>

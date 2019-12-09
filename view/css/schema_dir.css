@@ -1,0 +1,28 @@
+.schema-dir .schema-switcher .fieldhelp {
+    margin-top:7px;
+    margin-bottom:20px;
+}
+
+.schema-dir .schema-fields {
+    border:1px solid silver;
+    padding:20px;
+}
+
+.schema-props .schema-props-item {
+    border:1px dashed silver;
+    padding:10px;
+    margin-top:15px;
+    position:relative;
+}
+
+.schema-props-item .caption {
+    font-weight:bold;
+    margin-bottom:10px;
+}
+
+.schema-remove-prop {
+    position:absolute;
+    right:0px;
+    top:0px;
+    padding:10px;
+}
